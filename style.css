@@ -1,0 +1,6 @@
+body{
+   background: linear-gradient(rgba(30, 109, 160, 0.8) 0%, #1e6da0 20%), url('/img/background.jpg?1582176005');
+}
+.firstRow{
+   background-color: rgba(2, 39, 63, 0.5);
+}
